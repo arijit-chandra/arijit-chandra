@@ -1,13 +1,11 @@
 <h1 align="center">Hi 👋, I'm Arijit Chandra</h1>
-<h3 align="center">A passionate Machine Learning Engineer from India</h3>
+<h3 align="center">A passionate Data Analyst from India</h3>
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=arijit-chandra&label=Profile%20views&color=0e75b6&style=flat" alt="arijit-chandra" /> </p>
 
-- 🔭 I’m currently working on **MLOps-Machine-Learning-Based-Visa-Certification-Prediction**
+- 🔭 I’m currently working on **Amazon USA Sales Analysis Project - SQL**
 
-- 🌱 I’m currently learning **MLOps**
-
-- 📫 How to reach me **chandratech19@gmail.com**
+- 📫 How to reach me **arijit.chandra03@gmail.com**
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
